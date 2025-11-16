@@ -65,6 +65,14 @@
       },
       "versions": [
         {
+          "version": "20.42.3",
+          "date": "2025-11-15",
+          "localizedDescription": "Current YouTube IPA: \"20.42.3\"  \r\nCurrent YTLite Version: \"5.2b4\"  \r\nCurrent App Compatibility: \"iOS/iPadOS 15.0\" or later\r\n\r\nRELEASE 20.42.3\u20225.2b4: (2024\u202209\u202203)\r\n\r\n\u2022 Updated Youtube from \"19.32.6\" to \"19.34.2\"\r\n\u2022 Updated YTLite from \"4.0.1\" to \"5.0.1\"\r\n\r\nIssues in this Release:\r\n\u2022 Touches will not work while bypassing startup popup\r\n\u2022",
+          "downloadURL": "https://github.com/darkfoxxx2393/YTLite/releases/download/untagged-272c5e0cbad638f2183e/YouTubePlus_5.2b4.ipa",
+          "size": 111020044
+        },
+      "versions": [
+        {
           "version": "19.34.2",
           "date": "2024-09-03",
           "localizedDescription": "Current YouTube IPA: \"19.34.2\"  \r\nCurrent YTLite Version: \"5.0.1\"  \r\nCurrent App Compatibility: \"iOS/iPadOS 15.0\" or later\r\n\r\nRELEASE 19.34.2\u20225.0.1: (2024\u202209\u202203)\r\n\r\n\u2022 Updated Youtube from \"19.32.6\" to \"19.34.2\"\r\n\u2022 Updated YTLite from \"4.0.1\" to \"5.0.1\"\r\n\r\nIssues in this Release:\r\n\u2022 Touches will not work while bypassing startup popup\r\n\u2022 LowContrastMode does not work *(Compatible only with YouTube v17.33.2\u2022v17.38.10)*\r\n\r\nCatbox\r\n\"z8jg5n.ipa\"",
