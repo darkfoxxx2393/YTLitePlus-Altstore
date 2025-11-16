@@ -67,7 +67,7 @@
         {
           "version": "20.42.3",
           "date": "2025-11-15",
-          "localizedDescription": "Current YouTube IPA: \"20.42.3\"  \r\nCurrent YTLite Version: \"5.2b4\"  \r\nCurrent App Compatibility: \"iOS/iPadOS 15.0\" or later\r\n\r\nRELEASE 20.42.3\u20225.2b4: (2024\u202209\u202203)\r\n\r\n\u2022 Updated Youtube from \"19.32.6\" to \"19.34.2\"\r\n\u2022 Updated YTLite from \"4.0.1\" to \"5.0.1\"\r\n\r\nIssues in this Release:\r\n\u2022 Touches will not work while bypassing startup popup\r\n\u2022",
+          "localizedDescription": "Current YouTube IPA: \"20.42.3\"\nCurrent YTLite Version: \"5.2b4\"\nCurrent App Compatibility: \"iOS/iPadOS 15.0\" or later\n\nRELEASE 20.42.3·5.2b4 (2024-09-03)\n\n• Updated Youtube\n• Updated YTLite",
           "downloadURL": "https://github.com/darkfoxxx2393/YTLite/releases/download/untagged-272c5e0cbad638f2183e/YouTubePlus_5.2b4.ipa",
           "size": 111020044
         },
@@ -377,6 +377,17 @@
     }
   ],
   "news": [
+    {
+      "appID": "com.google.ios.youtube",
+      "caption": "A new version of YTLitePlus is now available!",
+      "date": "2025-11-15",
+      "identifier": "release-20.42.3-5.2b4",
+      "imageURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/screenshots/news/new_release.png",
+      "notify": true,
+      "tintColor": "e22a41",
+      "title": "20.42.3 – YTLitePlus 15/11/25",
+      "url": "https://github.com/darkfoxxx2393/YTLite/releases/download/untagged-272c5e0cbad638f2183e/YouTubePlus_5.2b4.ipa"
+    },
     {
       "appID": "com.google.ios.youtube",
       "caption": "Update of YTLitePlus just got released!",
