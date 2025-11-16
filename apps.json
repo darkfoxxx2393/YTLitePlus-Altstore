@@ -1,33 +1,22 @@
 {
   "name": "YTLite Source",
   "identifier": "com.darkfoxxx2393.ytlite.source",
-  "sourceURL": "https://raw.githubusercontent.com/darkfoxxx2393/YTLite/main/altstore.json",
-  "iconURL": "https://raw.githubusercontent.com/darkfoxxx2393/YTLite/main/icon.png",
   "apps": [
     {
       "name": "YouTube Plus",
       "bundleIdentifier": "com.darkfoxxx2393.youtubeplus",
       "developerName": "darkfoxxx2393",
-      "subtitle": "Enhanced YouTube experience",
-      "localizedDescription": "YouTube Plus (YTLite) is an enhanced YouTube client offering premium features, tweaks, ad-blocking and quality-of-life improvements.",
-      "iconURL": "https://raw.githubusercontent.com/darkfoxxx2393/YTLite/main/icon.png",
-      "tintColor": "#FF0000",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/darkfoxxx2393/YTLite/main/screenshot1.png",
-        "https://raw.githubusercontent.com/darkfoxxx2393/YTLite/main/screenshot2.png"
-      ],
       "version": "5.2b4",
       "versionDate": "2025-01-01",
-      "versionDescription": "Latest beta release of YouTube Plus 5.2b4.",
-      "downloadURL": "https://www.dropbox.com/scl/fi/gcyjr86bkjt4q9zg46hiw/YouTubePlus_5.2b4.ipa?rlkey=6bg4111gnd4zhpck4ma26pgyw&st=5ybimegd&dl=0",
+      "versionDescription": "Latest beta release.",
+      "downloadURL": "https://www.dropbox.com/scl/fi/gcyjr86bkjt4q9zg46hiw/YouTubePlus_5.2b4.ipa?rlkey=6bg4111gnd4zhpck4ma26pgyw&st=sklg6rbf&dl=0",
       "size": 0,
-      "beta": true,
+      "localizedDescription": "Enhanced YouTube experience.",
       "versions": [
         {
           "version": "5.2b4",
           "date": "2025-01-01",
-          "localizedDescription": "Latest beta release of YouTube Plus 5.2b4.",
-          "downloadURL": "https://www.dropbox.com/scl/fi/gcyjr86bkjt4q9zg46hiw/YouTubePlus_5.2b4.ipa?rlkey=6bg4111gnd4zhpck4ma26pgyw&st=5ybimegd&dl=0",
+          "downloadURL": "https://www.dropbox.com/scl/fi/gcyjr86bkjt4q9zg46hiw/YouTubePlus_5.2b4.ipa?rlkey=6bg4111gnd4zhpck4ma26pgyw&st=sklg6rbf&dl=0",
           "size": 0,
           "minOSVersion": "14.0"
         }
